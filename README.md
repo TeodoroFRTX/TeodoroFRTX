@@ -1,9 +1,19 @@
-## Hi there 👋
+## Olá👋
 
+# Sobre mim 
+
+* Meu nome é Teodoro💀.
+
+* 14 anos🏙️.
+
+* jogo bastante🎮.
+
+* Aprendendo front-end👾.
+
+Atualizado em 2026.
 <!--
-**TeodoroFRTX/TeodoroFRTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
