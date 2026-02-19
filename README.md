@@ -1,5 +1,3 @@
-## Olá👋
-
 # Sobre mim 
 
 * Meu nome é Teodoro💀.
